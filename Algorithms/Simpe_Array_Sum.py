@@ -1,5 +1,5 @@
-// Author: Sinclair Liang
-// Github: github.com/sinclairliang
+# Author: Sinclair Liang
+# Github: github.com/sinclairliang
 #!/bin/python3
 
 import os
